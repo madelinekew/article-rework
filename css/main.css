@@ -1,7 +1,7 @@
 /* --- reset default browser styles ---*/
 html {
   font: 100%/1.15 sans-serif;
-  -webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 200%;
   scroll-behavior: smooth;
 }
 
@@ -19,11 +19,13 @@ img {
 /*---body/structure---*/
 
 body {
-  font-family: gill sans, sans-serif;
+  font-family: "Gill sans", Sans-Serif;
   padding:0 3.5%;
   padding:1.2rem;
   margin: 0 auto;
 }
+
+
 .max-width-text {
   max-width: 40rem;
   margin: 0 auto;
